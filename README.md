@@ -1,5 +1,8 @@
 #Josh's notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+## Summary 
+
+This repository contains all of the notes taken by [Josh](https://github.com/jsarnecki) for the [Lighthouse Labs](lighthouselabs.ca) Web Development Bootcamp.
+
+The more # you add, the larger the header size
 
